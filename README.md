@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emirkarakavak&theme=dark&background=000000)](https://git.io/streak-stats)
 ![image title](https://rushter.com/counter.svg)
